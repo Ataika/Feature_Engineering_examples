@@ -43,4 +43,4 @@ The examples are based on the **Ames Housing** dataset, used for analyzing house
 The examples use the Ames Housing dataset. Ensure the dataset is downloaded and placed in the same directory as the notebooks.  
 
 ## Contact  
-If you have any questions or suggestions, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).  
+If you have any questions or suggestions, feel free to reach out at [atai.ask@yahoo.com](mailto:atai.ask@yahoo.com).  
